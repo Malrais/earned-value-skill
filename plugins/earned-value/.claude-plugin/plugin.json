@@ -1,1 +1,6 @@
-
+{
+  "name": "earned-value",
+  "description": "Earned value management for construction and infrastructure projects: CPI, SPI, EAC, CPR and WPM workbooks, S-curves, variance commentary, AS 4817 / ISO 21508 set-up.",
+  "version": "1.0.0",
+  "author": { "name": "Maisara Al Rais" }
+}
